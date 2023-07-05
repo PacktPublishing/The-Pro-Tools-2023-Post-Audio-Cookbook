@@ -21,7 +21,7 @@ This book covers the following exciting features:
 * Deliver custom solutions for varied service requirements
 * Use advanced mixing techniques to enhance sound tracks
 * Pick appropriate use cases for different audio effects and plugins
-* 
+  
 If you feel this book is for you, get your [copy](https://www.amazon.in/Pro-Tools-2023-Post-Audio-Cookbook-ebook/dp/B0BQN53QYC) today!
 
 <a href="https://www.packtpub.com/?utm_source=github&utm_medium=banner&utm_campaign=GitHubBanner"><img src="https://raw.githubusercontent.com/PacktPublishing/GitHub/master/GitHub.png" 
@@ -30,21 +30,23 @@ alt="https://www.packtpub.com/" border="5" /></a>
 ## Instructions and Navigations
 All of the files is organized into folders. For example, chapter1.
 
+
 **Following is what you need for this book:**
 
 Pro Tools has long been an industry-standard Digital Audio Workstation (DAW) for audio professionals, but it can often be overwhelming for new and experienced users alike. The Pro Tools 2023 Post-Audio Cookbook acts as a reference guide to the software and breaks down each stage of a project into manageable phases. From planning a session, editing a sequence, performing a mix to printing the final masters, you can approach this book either sequentially or peruse the self-contained recipes.
 
 
 With the following software and hardware list you can run all code files present in the book (Chapter 1-9).
+
 ### Software and Hardware List
 | Software required                    | OS required                         |
 | ------------------------------------ | ----------------------------------- |
 | Pro Tools 2023.3                     | Windows 10                          |
-                                       | Windows 11                          |
-                                       | macOS Catalina (10.15.7)            |
-                                       | macOS Big Sur (11.7.4)              |
-                                       | macOS Monterey (12.6.3)             |
-                                       | macOS Ventura (13.2.1)              |
+|                                      | Windows 11                          |
+|                                      | macOS Catalina (10.15.7)            |
+|                                      | macOS Big Sur (11.7.4)              |
+|                                      | macOS Monterey (12.6.3)             |
+|                                      | macOS Ventura (13.2.1)              |
 
 
 We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](https://packt.link/Zwua2).
