@@ -22,7 +22,7 @@ This book covers the following exciting features:
 * Use advanced mixing techniques to enhance sound tracks
 * Pick appropriate use cases for different audio effects and plugins
   
-If you feel this book is for you, get your [copy](https://www.amazon.in/Pro-Tools-2023-Post-Audio-Cookbook-ebook/dp/B0BQN53QYC) today!
+If you feel this book is for you, get your [copy](https://www.amazon.in/Pro-Tools-2023-Post-Audio-Cookbook/dp/1803248432/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=) today!
 
 <a href="https://www.packtpub.com/?utm_source=github&utm_medium=banner&utm_campaign=GitHubBanner"><img src="https://raw.githubusercontent.com/PacktPublishing/GitHub/master/GitHub.png" 
 alt="https://www.packtpub.com/" border="5" /></a>
